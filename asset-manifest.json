@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Marvel-quiz/static/css/main.6e0826aa.css",
+    "main.css": "/Marvel-quiz/static/css/main.cf78fc6c.css",
     "main.js": "/Marvel-quiz/static/js/main.0d461623.js",
     "index.html": "/Marvel-quiz/index.html",
-    "main.6e0826aa.css.map": "/Marvel-quiz/static/css/main.6e0826aa.css.map",
+    "main.cf78fc6c.css.map": "/Marvel-quiz/static/css/main.cf78fc6c.css.map",
     "main.0d461623.js.map": "/Marvel-quiz/static/js/main.0d461623.js.map"
   },
   "entrypoints": [
-    "static/css/main.6e0826aa.css",
+    "static/css/main.cf78fc6c.css",
     "static/js/main.0d461623.js"
   ]
 }
