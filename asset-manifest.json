@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Marvel-quiz/static/css/main.7c2fb587.css",
+    "main.js": "/Marvel-quiz/static/js/main.3544afc4.js",
+    "index.html": "/Marvel-quiz/index.html",
+    "main.7c2fb587.css.map": "/Marvel-quiz/static/css/main.7c2fb587.css.map",
+    "main.3544afc4.js.map": "/Marvel-quiz/static/js/main.3544afc4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7c2fb587.css",
+    "static/js/main.3544afc4.js"
+  ]
+}
